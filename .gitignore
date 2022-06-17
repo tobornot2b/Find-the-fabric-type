@@ -1,0 +1,7 @@
+/.ipynb_checkpoints
+
+*.dll
+*.xlsx
+
+!bur_sojae.xlsx
+!*_B사소재표준정보.xlsx
